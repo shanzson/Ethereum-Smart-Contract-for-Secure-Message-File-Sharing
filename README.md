@@ -1,4 +1,4 @@
-# Ethereum-Smart-Contract-for-Secure-Message-File-Sharing-
+# Ethereum-Smart-Contract-for-Secure-Message-File-Sharing
 Smart contracts are computer protocols that are easily verifiable to conduct trustworthy transactions between peers without middle-men or third parties. These are contractual agreements that are self-executing, providing high level of privacy and security at the same time. Blockchain protocols can be implemented through them. These smart contracts use the concept of cryptography and digital signatures that ensure immutability of transactions carried out. 
 
 Here the Smart Contract has the following participants:
